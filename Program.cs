@@ -12,7 +12,7 @@ namespace ByteBank
         static void Main(string[] args)
         {
             GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
-            Funcionario zeah = new Funcionario("111111");
+            Funcionario zeah = new Designer("111111");
             zeah.nome = "zé";
             zeah.Salario = 789;
 
